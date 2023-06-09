@@ -2,4 +2,10 @@ h3 {
 	color:#ff7f50;
 	font-style: oblique;
 }
-thead {color: #ffca86}
+thead {color: #ffca86;}
+
+tbody {background-color:#ccbbff;
+	color:#003333;
+	font-style: italic;
+      }
+
