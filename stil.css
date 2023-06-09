@@ -1,1 +1,7 @@
-h3 {color:#ff7f50;}
+h3 {color:#ff7f50;
+	font-style: oblique;
+}
+
+thead {color: #ffca86;}
+
+tbody {color:#003333;}
